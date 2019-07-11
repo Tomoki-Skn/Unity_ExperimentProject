@@ -30,3 +30,5 @@ https://miyagame.net/sourcetree-unity-git/#Unity
 
 WiZ(国際情報工科自動車大学校)のゲームソフト開発科　3年
 関根　友希
+
+Facebook: https://www.facebook.com/tomoki.sekine.9
